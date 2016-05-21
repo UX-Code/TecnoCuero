@@ -1,0 +1,13 @@
+Nombramiento de variables
+- Name de formularios => txt_{nombre igual al campo de la bd}
+- variables con el nombre igual al campo de la bd.
+
+Estructura de las vistas {sin estructura de html}
+
+<div class="row">
+  <div class="col l12>
+	<form>
+		... Contenido del formulario utilizando materializecss ...
+	</form>
+  </div>
+</div>
