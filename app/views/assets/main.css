@@ -1,0 +1,50 @@
+nav{
+  position: absolute;
+  height: 100%;
+  width: 250px;
+  padding: 15px;
+}
+
+nav img{
+  width: 100%;
+  padding-bottom: 20px;
+  border-bottom: 2px solid #37474f;
+}
+
+nav li{
+  padding-left: 10px !important;
+  height: 65px;
+  float: none !important;
+}
+nav a{
+  width: 100%;
+  padding: 0 !important;
+}
+nav a.active{
+    border-left: 3px solid #0ebde9;
+}
+nav li.active{
+  width: 100%;
+}
+
+nav li i{
+  margin-right: 10px;
+}
+
+section{
+  margin-left: 250px;
+  overflow-x: auto;
+  height: 100vh;
+  position: relative;
+}
+
+.btn{
+  display: block;
+}
+.notice p{
+  padding-bottom: 15px;
+
+}
+.notice{
+  margin-bottom:20px;
+}
